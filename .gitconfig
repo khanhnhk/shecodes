@@ -1,0 +1,7 @@
+[user]
+    email = khanhnguyenqn2310@gmail.com
+
+[include]
+    path = ~/.gitconfig
+[pull]
+	rebase = false
